@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Tarefas",
+    "icon": "./assets/splash.png",
+    "version": "1.0.0",
+    "slug": "Tarefas",
+    "ios": {
+      "bundleIdentifier": "com.joaovictorcam4rgo.Tarefas",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.joaovictorcam4rgo.Tarefas",
+      "versionCode": 1
+    }
+  }
+}
